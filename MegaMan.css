@@ -1,0 +1,86 @@
+#main{
+    
+  margin: 30px auto;
+  padding: 15px;
+  border-radius:5px;
+  background:#eee;
+  text-align: center;
+  box-shadow: 5px 10px 8px #888888;
+}
+
+li{
+    text-align: justify;
+}
+body {
+    background: #fff;
+    box-shadow: 0  2px rgba(0, 0, 0, 0.06);
+    color: #000;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 1em 2em 4em;
+}
+
+h1 {
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    color: #000;
+    
+    font-weight: 600;
+    line-height: 1;
+    margin: -5px;
+}
+
+h2 {
+    color: #000;
+    font-size: 16px
+}
+h4{
+    font-size: 20px;
+}
+#img{
+    
+  max-width: 100%;
+  align-content: center;
+  box-shadow: 5px 10px 8px #888888;
+  border: 5px solid;
+  border-color: black;
+  border-radius: 360px;
+  display: block;
+  margin-left: -5px;
+  margin-bottom: px;
+}
+
+p{
+    text-align: left;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    font-size: 14px;
+    background-color: #dde;
+    margin-left: -40px;
+    box-shadow: 5px 10px 8px #888888;
+}
+.console-line{
+  text-align: center;
+}
+
+#tribute-info{
+    line-height: 2;
+}
+
+#img-caption{
+    font-size: 12px;
+}
+
+html {
+
+}
+
+
+
+
+
