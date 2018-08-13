@@ -24,4 +24,4 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
   # Extra info
   This tribute page was ment to meet the requirements of the freeCodeCamp.org requirements and currently features no media queries. I won't be coming back to work on this as I feel it should be used to show progress more than anything.
   
-The codepen version of this site can be viewed: [here](https://codepen.io/anon/pen/qyygaW").
+The codepen version of this site can be viewed: [here](https://codepen.io/anon/pen/qyygaW).
